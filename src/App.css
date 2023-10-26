@@ -1,0 +1,31 @@
+.container {
+  padding: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.navBar {
+  width: 100%;
+  background-color: gainsboro;
+  padding: 25px;
+}
+
+.inner-content {
+  
+    display : flex;
+    align-items: center;
+    justify-content: space-between;
+   
+  }
+  
+.nav-links{
+  display : flex;
+  align-items: center;
+  justify-content: space-between;
+  }
+  .nav-links li {
+ list-style: none;
+    }
+  
+ 
